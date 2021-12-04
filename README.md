@@ -1,5 +1,7 @@
 # Adding-to-Pi
 
+Programmed November 2021 by Ezinna Ononuju
+
 This is a program which I worked on with a Math-Major friend. He discussed a concept where as you add increasingly small positive and negative fractions infinitely, their sum approaches Pi.
 
 With his help, we created a program which loops as it reaches more and more several digits of Pi. I found it really interesting!
